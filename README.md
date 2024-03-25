@@ -1,17 +1,17 @@
 # Public Health Informatics Fellow
 
-### profesional summary
+### Profesional summary
 - I have over 8 years of professional experience in the public health sector, with a track record of success in developing and executing innovative digital health initiatives that have resulted in improved health outcomes for vulnerable populations.
 - Proven ability to build strong relationships with stakeholders, including local government, health agencies, and community organizations.
 - Top skills include project management, data collection, data analysis, data visualization, artificial intelligence, and communication/interpersonal skills. Seeking a role that will allow me to utilize and further develop my skills and strengths to make a positive impact on public health.
 
 ### Education
-- MHP, Biostatistics & Econometrics, Aix-Marseille University (2021)
-- MPH, Public Health Information Systems, Aix-Marseille University (2020)
-- MD, General Medicine, Gamal Abdel Nasser University (2020)
+- MHP, Biostatistics & Econometrics | Aix-Marseille University (2021)
+- MPH, Public Health Information Systems | Aix-Marseille University (2020)
+- MD, General Medicine | Gamal Abdel Nasser University (2020)
 
 ### Work experience
-Public Health Informatics Fellow @ Centers for Diseases Control and Prevention (CDC)
+Public Health Informatics Fellow @ Centers for Diseases Control and Prevention (CDC) (Aug 22 to present)
 - Developed a process to integrate laboratory reference data into an existing DCIPHER-based platform, ensuring accuracy and efficiency in the data transfer process.
 - Provided technical assistance to program staff to ensure access and proper use of state and local public health data.
 - Developed user-friendly materials that translated backend processes to program staff without advanced informatics experience, resulting in improved understanding of data.
@@ -19,7 +19,7 @@ Public Health Informatics Fellow @ Centers for Diseases Control and Prevention (
 - Developed a Machine Learning Algorithm that automate data extraction from complex PDFs, which allowed for faster and more accurate data extraction and processing, resulting in a 90% reduction in manual processing time.
 - Develop a real-time interactive and comprehensive dashboard to visualize and analyze epidemiologic and laboratory data on meningococcal disease cases caused by antimicrobial-resistant Neisseria meningitidis, with the goal of enabling state and local public health departments to make informed chemoprophylaxis decisions based on antimicrobial resistance in their respective county and states.
 
-Project Management Specialist – Malaria Data management @ Unites States Agency for International Development (USAID), Guinea & Sierra Leone
+Project Management Specialist – Malaria Data management @ Unites States Agency for International Development (USAID), Guinea & Sierra Leone (Feb 22 to Jul 23)
 - Developed and implemented strategies to improve malaria data quality and data sharing, resulting in improved resource allocation and enhanced capacity building for malaria control programs within the Ministry of Health.
 - Provided technical guidance to malaria control programs, enabling them to design and manage information systems for malaria case management, vector control, and the supply chain of malaria commodities.
 - Advised Office Chief, Mission Director, Deputy Mission Director, and other stakeholders on local matters related to data quality, use, and transformation.
@@ -29,7 +29,7 @@ Project Management Specialist – Malaria Data management @ Unites States Agency
 - Provided financial and programmatic oversight as a Contracting Officer Representative/Agreement Officer Representative and Activity Manager for malaria data systems strengthening projects, ensuring successful attainment of Health Office, Mission, and USG objectives.
 - Represented USAID/PMI team on Technical and Financial Partner supporting the Guinea National Malaria Control Program to facilitate two government portfolio reviews and a one Learning Summit, bringing together USG and Guinean Officials, International NGOs, Civil Society Organizations, Beneficiaries, Academia, and the Media to showcase USAID support to the Guinean people in the post Ebola recovery process, as well as contributing alongside USAID Guinea Mission Financial Management Office to timely schedule and sign bilateral agreement amendments, preventing financial losses and strengthening the Mission's collaboration with the Government of Guinea.
 
-Technical Research Advisor @ German Agency for International Cooperation (GIZ), Conakry, Guinea
+Technical Research Advisor @ German Agency for International Cooperation (GIZ), Conakry, Guinea (May 21 to June 22)
 - Coordinated the design and implementation of research projects, inter-university and inter-hospital cooperation, and PPP projects within the Reproductive and Family Health Program.
 - Ensured documentary review for the conceptualization of research projects and/or studies, resulting in successful completion of the projects.
 - Coordinated the exchange of information and the coordination of interventions within the framework of PPP and cooperation projects by establishing internal channels of communication between the different components of the PSRF and external channels of communication between the different partners, resulting in successful collaboration and mission execution.
