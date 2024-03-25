@@ -59,7 +59,7 @@
 - Oral and written communication.
 
 ## Professional projets 
-- Using Python
+- **Using Python**
 ### Regression model in Keras
 [Showcase](https://github.com/christt94/IBM-AI-Engineering/blob/main/VGG16%20model.ipynb)
 ### Generating Maps
@@ -73,8 +73,8 @@
 ### Flower shop chatbot 
 [Showcase in IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
 
-- Using R
+- **Using R**
 ### Bike share navigate speedy success
 [Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
 
-- Using SAS
+- **Using SAS**
