@@ -58,12 +58,23 @@
 - Trii-lingual (English, French and Spanish)
 - Oral and written communication.
 
-## Professional projets
+## Professional projets 
+- Using Python
+### Regression model in Keras
+[Showcase](https://github.com/christt94/IBM-AI-Engineering/blob/main/VGG16%20model.ipynb)
+### Generating Maps
+[Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Visualization%20With%20Python/3-5-1-Generating-Maps-in-Python.ipynb)
 ### From Modeling to Evaluation
-[Showcase in Python](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
+[Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
 ### Extracting and Visualizing Market Stock Data
-[Showcase with Python](https://github.com/christt94/IBM_training/blob/main/Final%20Assignment2.ipynb)
+[Showcase](https://github.com/christt94/IBM_training/blob/main/Final%20Assignment2.ipynb)
 ### House Sales in USA 
-[Showcase in Python](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
+[Showcase](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
 ### Flower shop chatbot 
-[Capstone in python and IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
+[Showcase in IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
+
+- Using R
+### Bike share navigate speedy success
+[Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
+
+- Using SAS
