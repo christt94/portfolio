@@ -6,9 +6,9 @@
 - Top skills include project management, data collection, data analysis, data visualization, artificial intelligence, and communication/interpersonal skills. Seeking a role that will allow me to utilize and further develop my skills and strengths to make a positive impact on public health.
 
 ### Education
-- Biostatistics & Econometrics, MHP
-- Public Health Information Systems, MHP
-- General Medicine, MD
+- MHP, Biostatistics & Econometrics, Aix-Marseille University (2021)
+- MPH, Public Health Information Systems, Aix-Marseille University (2020)
+- MD, General Medicine, Gamal Abdel Nasser University (2017)
 
 ### Work experience
 Public Health Informatics Fellow @ Centers for Diseases Control and Prevention (CDC)
