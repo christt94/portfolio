@@ -8,7 +8,7 @@
 ### Education
 - MHP, Biostatistics & Econometrics, Aix-Marseille University (2021)
 - MPH, Public Health Information Systems, Aix-Marseille University (2020)
-- MD, General Medicine, Gamal Abdel Nasser University (2017)
+- MD, General Medicine, Gamal Abdel Nasser University (2020)
 
 ### Work experience
 Public Health Informatics Fellow @ Centers for Diseases Control and Prevention (CDC)
