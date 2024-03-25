@@ -60,10 +60,10 @@
 
 ## Professional projets
 ### From Modeling to Evaluation
-[Showcase with Python](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
+[Showcase in Python](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
 ### Extracting and Visualizing Market Stock Data
 [Showcase with Python](https://github.com/christt94/IBM_training/blob/main/Final%20Assignment2.ipynb)
 ### House Sales in USA 
-[Showcase with Python] (https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
+[Showcase in Python](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
 ### Flower shop chatbot 
-[Capstone with python and IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
+[Capstone in python and IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
