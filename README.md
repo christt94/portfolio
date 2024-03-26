@@ -1,6 +1,6 @@
 # Public Health Informatics Fellow
 
-## Profesional summary
+## Professional summary
 - I have over 8 years of professional experience in the public health sector, with a track record of success in developing and executing innovative digital health initiatives that have resulted in improved health outcomes for vulnerable populations.
 - Proven ability to build strong relationships with stakeholders, including local government, health agencies, and community organizations.
 - Top skills include project management, data collection, data analysis, data visualization, artificial intelligence, and communication/interpersonal skills. Seeking a role that will allow me to utilize and further develop my skills and strengths to make a positive impact on public health.
