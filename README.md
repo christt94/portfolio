@@ -62,6 +62,8 @@
 
 ## Professional projets 
 - **Using Python**
+### Simple implementation of a linear regression model using Python and scikit-learn 
+[Showcase](https://github.com/christt94/scikit-learn)
 ### Neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
 [Showcase](https://github.com/christt94/mnist-project) 
 ### Simple image classification model using PyTorch in a Jupyter Notebook
@@ -72,8 +74,7 @@
 [Showcase](https://github.com/christt94/IBM_training/blob/main/Final%20Assignment2.ipynb)
 ### House Sales in USA 
 [Showcase](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
-### Flower shop chatbot 
-[Showcase in IBM Cloud](https://github.com/christt94/StudentChatbott./blob/main/coursera_courses.json)
+
 
 - **Using R**
 ### Bike share navigate speedy success
