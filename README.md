@@ -64,8 +64,8 @@
 - **Using Python**
 ### Neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
 [Showcase](https://github.com/christt94/mnist-project) 
-### Generating Maps
-[Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Visualization%20With%20Python/3-5-1-Generating-Maps-in-Python.ipynb)
+### Simple image classification model using PyTorch in a Jupyter Notebook
+[Showcase](https://github.com/christt94/PyTorch_demo)
 ### From Modeling to Evaluation
 [Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
 ### Extracting and Visualizing Market Stock Data
