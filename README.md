@@ -1,11 +1,13 @@
 # Public Health Informatics Fellow
 
 ## Professional summary
-- I have over 8 years of professional experience in the public health sector, with a track record of success in developing and executing innovative digital health initiatives that have resulted in improved health outcomes for vulnerable populations.
+- I have over 10 years of professional experience in the public health sector, with a track record of success in developing and executing innovative digital health initiatives that have resulted in improved health outcomes for vulnerable populations.
 - Proven ability to build strong relationships with stakeholders, including local government, health agencies, and community organizations.
 - Top skills include project management, data collection, data analysis, data visualization, artificial intelligence, and communication/interpersonal skills. Seeking a role that will allow me to utilize and further develop my skills and strengths to make a positive impact on public health.
 
 ## Education
+- PhD., Biostatistics & Epidemiology | The University of Nicaragua | Nicaragua (_2025_)
+- MSc., Artificil Intelligence | The University of Aix-Marseille | France (_2024_)
 - MHP., Biostatistics & Econometrics | The University of Aix-Marseille | France (_2021_)
 - MPH., Public Health Information Systems | The University of Aix-Marseille | France (_2020_)
 - MD., General Medicine | The University of Gamal Abdel Nasser | Guinea (_2020_)
