@@ -63,7 +63,7 @@
 ## Professional projets 
 - **Using Python**
 ### Neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
-[Showcase] (https://github.com/christt94/mnist-project) 
+[Showcase](https://github.com/christt94/mnist-project) 
 ### Generating Maps
 [Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Visualization%20With%20Python/3-5-1-Generating-Maps-in-Python.ipynb)
 ### From Modeling to Evaluation
