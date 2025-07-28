@@ -62,6 +62,8 @@
 
 ## Professional projets 
 - **Using Python**
+### Dockerized churn prediction project 
+[Showcase](https://github.com/christt94/lightgbm-churn-prediction)
 ### Simple implementation of a linear regression model using Python and scikit-learn 
 [Showcase](https://github.com/christt94/scikit-learn)
 ### Neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
