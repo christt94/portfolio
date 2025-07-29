@@ -76,7 +76,8 @@
 [Showcase](https://github.com/christt94/IBM_training/blob/main/Final%20Assignment2.ipynb)
 ### House Sales in USA 
 [Showcase](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
-
+### Automated Data Workflows with Apache Airflow 
+[Showcase](https://github.com/christt94/airflow-welcome-dag)
 
 - **Using R**
 ### Bike share navigate speedy success
