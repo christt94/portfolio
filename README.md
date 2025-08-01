@@ -31,7 +31,7 @@
 
 - ***Auto ML Methods***
 ### Implementing reinforcement learning and other approaches
-[Showcase](https://github.com/christt94/rienforce)
+[Showcase](https://github.com/christt94/reinforcement-learning-and-other-approaches)
   
 ## Using R
 ### Bike share navigate speedy success
