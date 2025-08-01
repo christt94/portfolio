@@ -1,6 +1,7 @@
 # Professional projets 
 
 - **Using Python**
+- ***Supervised Methods***
 ### Simple implementation of a linear regression model using Python and scikit-learn 
 [Showcase](https://github.com/christt94/scikit-learn)
 ### Implementing and comparing Regression vs Decision Trees models using Python and scikit-learn 
@@ -24,8 +25,12 @@
 ### Dockerized churn prediction project 
 [Showcase](https://github.com/christt94/lightgbm-churn-prediction)
 
+- ***Unsupervised Methods***
+### Implementing unsupervised learning methods
+[Showcase](https://github.com/christt94/Unsupervised-learning-methods)
+
 - **Using R**
 ### Bike share navigate speedy success
 [Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
 
-- **Using SAS**
+
