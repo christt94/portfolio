@@ -11,6 +11,8 @@
 [Showcase](https://github.com/christt94/Applying-metrics-cross-validation)
 ### Simple image classification model using PyTorch in a Jupyter Notebook
 [Showcase](https://github.com/christt94/PyTorch_demo)
+### Implementing feature selection techniques on a given dataset in a Jupyter Notebook
+[Showcase](https://github.com/christt94/Feature_selection)
 ### From Modeling to Evaluation
 [Showcase](https://github.com/christt94/IBM_training/blob/main/Data%20Science%20Methodology/4-From-Modeling-to-Evaluation.ipynb)
 ### Extracting and Visualizing Market Stock Data
