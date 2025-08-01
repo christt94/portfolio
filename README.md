@@ -29,6 +29,10 @@
 ### Implementing unsupervised learning methods
 [Showcase](https://github.com/christt94/Unsupervised-learning-methods)
 
+- ***Auto ML Methods***
+### Implementing reinforcement learning and other approaches
+[Showcase](https://github.com/christt94/rienforce)
+  
 ## Using R
 ### Bike share navigate speedy success
 [Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
