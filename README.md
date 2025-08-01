@@ -7,6 +7,8 @@
 [Showcase](https://github.com/christt94/supervised-learning-env)
 ### Neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
 [Showcase](https://github.com/christt94/mnist-project) 
+### Applying metrics and cross-validation in a Jupyter Notebook
+[Showcase](https://github.com/christt94/Applying-metrics-cross-validation)
 ### Simple image classification model using PyTorch in a Jupyter Notebook
 [Showcase](https://github.com/christt94/PyTorch_demo)
 ### From Modeling to Evaluation
