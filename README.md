@@ -1,7 +1,6 @@
-## Professional projets 
+# Professional projets 
+
 - **Using Python**
-### Dockerized churn prediction project 
-[Showcase](https://github.com/christt94/lightgbm-churn-prediction)
 ### Simple implementation of a linear regression model using Python and scikit-learn 
 [Showcase](https://github.com/christt94/scikit-learn)
 ### Implementing and comparing Regression vs Decision Trees models using Python and scikit-learn 
@@ -18,6 +17,8 @@
 [Showcase](https://github.com/christt94/IBM_training/blob/main/House_Sales_in_King_Count_USA_20231003_1696291200_jupyterlite.ipynb)
 ### Automated Data Workflows with Apache Airflow 
 [Showcase](https://github.com/christt94/airflow-welcome-dag)
+### Dockerized churn prediction project 
+[Showcase](https://github.com/christt94/lightgbm-churn-prediction)
 
 - **Using R**
 ### Bike share navigate speedy success
