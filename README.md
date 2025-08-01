@@ -32,7 +32,11 @@
 - ***Auto ML Methods***
 ### Implementing reinforcement learning and other approaches
 [Showcase](https://github.com/christt94/reinforcement-learning-and-other-approaches)
-  
+
+- ***Deep Learning Methods***
+### Analyzing a dataset and implementing a neural network for deep learning analysis
+[Showcase](https://github.com/christt94/neural-network-deep-learning)
+
 ## Using R
 ### Bike share navigate speedy success
 [Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
