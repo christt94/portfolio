@@ -1,6 +1,6 @@
 # Professional projets 
 
-- **Using Python**
+## Using Python
 - ***Supervised Methods***
 ### Simple implementation of a linear regression model using Python and scikit-learn 
 [Showcase](https://github.com/christt94/scikit-learn)
@@ -29,7 +29,7 @@
 ### Implementing unsupervised learning methods
 [Showcase](https://github.com/christt94/Unsupervised-learning-methods)
 
-- **Using R**
+## Using R
 ### Bike share navigate speedy success
 [Showcase](https://github.com/christt94/Google/blob/main/Google.Rmd)
 
